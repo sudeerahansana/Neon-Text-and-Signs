@@ -17,13 +17,10 @@ Facebook               vertices=344                 triangles=340
 GameStart               vertices=4733                 triangles=4677
 GameZone               vertices=2921                 triangles=2897
 GPlus               vertices=1533                 triangles=1525
-GPlus               vertices=1533                 triangles=1525
 GumClub               vertices=6538                 triangles=6434
 LevelUp               vertices=4222                 triangles=4178
-LiftingFitnessClub               vertices=25328                 triangles=25208
 LiftingFitnessClub               vertices=8869                 triangles=8749
 LinkedIn               vertices=1018                 triangles=1010
-MeatShop               vertices=3695                 triangles=3709
 Motel               vertices=7858                 triangles=7742
 NightClub               vertices=3050                 triangles=2982
 Open24_7               vertices=2689                 triangles=2629

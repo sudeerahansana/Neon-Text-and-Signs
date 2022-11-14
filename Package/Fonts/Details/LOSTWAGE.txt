@@ -8,7 +8,7 @@ _G         vertices=292         triangles=572
 _H         vertices=340         triangles=660
 _I         vertices=393         triangles=649
 _J         vertices=373         triangles=714
-_K         vertices=426         triangles=830
+_K         vertices=341         triangles=655
 _L         vertices=279         triangles=546
 _M         vertices=429         triangles=839
 _N         vertices=264         triangles=521

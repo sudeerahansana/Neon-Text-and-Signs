@@ -42,7 +42,7 @@ o         vertices=301         triangles=481
 p         vertices=280         triangles=490
 q         vertices=238         triangles=391
 r         vertices=330         triangles=530
-s         
+s         vertices=530         triangles=820
 t         vertices=238         triangles=406
 u         vertices=314         triangles=506
 v         vertices=255         triangles=418
